@@ -1,4 +1,4 @@
-# Project Euler problem 004.
+# Project Euler - problem 004 - LARGEST PALLINDROME PRODUCT
 #
 # A palindromic number reads the same both ways.
 # The largest palindrome made from the product of two 2-digit numbers
