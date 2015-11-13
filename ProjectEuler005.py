@@ -8,9 +8,11 @@
 
 testnumber = 0
 found = False
+
 while not found:
 	testnumber += 20
 	counter = 0
+	
 	for testdivisor in range(11,20):
 		if testnumber % testdivisor == 0:
 			counter +=1
