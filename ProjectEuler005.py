@@ -16,5 +16,6 @@ while not found:
 			counter +=1
 	if counter == 9:
 		found = True
+		
 print """The smallest positive number that is evenly divisible
 by all of the numbers from 1 to 20 is: """, testnumber
